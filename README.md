@@ -2,9 +2,9 @@
 ### Выполнила проект: Судиловская Анастасия
 
 ##Технологии
--HTML
--CSS
--Bootstrap
--JQuery
--Fancybox
--Swiper Slider JS
+- HTML
+- CSS
+- Bootstrap
+- JQuery
+- Fancybox
+- Swiper Slider JS
